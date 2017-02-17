@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+  <!-- -->
+  <category>
+    <pattern>AQUARIO</pattern>
+    <template>
+L'<set name="sign">Aquario</set> segno sicuro, anticonvenzionale e ricercatore libero: rappresenta la sregolatezza, il genio e la fantasia. Nei rapporti con gli altri,
+il tipo Acquario tende spesso a prodigarsi in gentilezze e cortesie. Vanitoso: vorrebbe vedere confermata la propria originalitÃ  e essere considerato come un individuo
+eccezionale. Il nativo ha una natura versatile, intelligente e libera da pregiudizi. Il suo desiderio , affermazione di se stesso e dei suoi principi.
+Animato da idee innovative, egli vuole raggiungere i suoi ideali, seguendo strade personali e rivoluzionarie. Non accetta imposizioni e rimane sempre un libero pensatore
+anticonvenzionale. Non a caso i grandi, nati sotto questo segno sono per lo piÃ¹ pensatori con concezioni di vita molto originali, riformatrici e rivoluzionarie.
+Sono creature eccentriche, dotate di un'intelligenza acuta, di socievolezza e di una spiccata abilitÃ  in tutte quelle mansioni che richiedono furbizia e acume.
+Non agiscono mai d'impulso, ma vagliano attentamente tutti gli aspetti di una situazione.Il nativo Acquario ha la notevole capacitÃ  di saper mettere a frutto ogni esperienza
+e di saper trarre vantaggio anche dalle sconfitte. Ha intuizioni geniali e spesso manifesta idee che precorrono i tempi. Professionalmente, tende a raggiungere posti di
+prestigio grazie alle sue doti intellettuali e all'innato savoir faire. L'Acquario Ã¨ nato per la diplomazia e per le pubbliche relazioni. Brilla inoltre in attivitÃ  che
+richiedono fantasia, intuizione e capacitÃ  di concentrazione, mentre tende a rifiutare lavori monotoni e di routine.
+Ãˆ critico sia nei propri che negli altrui confronti, e sa fronteggiare qualsiasi sacrificio pur di dimostrare la sua bravura.
+Ama le conversazioni intelligenti e difficilmente si fa trovare impreparato su qualsiasi argomento.
+Ha un profondo senso dell'amicizia e ama frequentare persone diverse per razza e cultura.
+La compagnia dell'Acquario Ã¨ molto ricercata e gradita perchÃ© Ã¨ vitalizzante e divertente.
+Sentimentalmente sanno essere caldi ma si sentono a loro agio in rapporti di stampo amichevole e anticonformista.
+Ãˆ indispensabile ricordare che per lui l'amore deve essere fondato sul rispetto dei reciproci spazi vitali.
+Anatomicamente l'Acquario governa la circolazione venosa.
+Il nativo puÃ² soffrire di disturbi circolatori, crampi, vene varicose; i punti piÃ¹ delicati sono caviglie e polpacci.
+Ha un equilibrio nervoso piuttosto delicato, per cui puÃ² accusare disturbi neurovegetativi ed eventualmente cardiovascolari.
+
+</template>
+  </category>
+  <category>
+    <pattern>CAPRICORNO</pattern>
+    <template>
+Esiste un <set name="sign">Capricorno</set> concentrato su se stesso, freddo, malinconico, un po' misantropo e un Capricorno
+che concede il massimo agli altri,con un gran senso del dovere e del sacrificio.
+In entrambi i casi il nativo Capricorno Ã¨ ambizioso,determinato, pronto a sacrificare tutto pur di raggiungere il suo obiettivo.
+Dal punto di vista psicologico, possiede una resistenza eccezionale e ineguagliabile calma di fronte a problemi e sofferenza,
+che sa sopportare in silenzio. Ãˆ il maestro di un grande dono: la pazienza.
+Le armi utilizzate dal tipo Capricorno per affrontare e per raggiungere il successo, sono la tenacia, la prudenza e la costanza 
+lavorativa, sostenute dal senso del dovere e del sacrificio.
+Ha le idee molto chiare in merito a ciÃ² che desidera e difficilmente Ã¨ possibile distoglierlo dalla sua strada.
+Il tipo Capricorno programma con cura la propria ascesa affrontando gli impedimenti con spirito di sacrificio e senza incertezze.
+Difficilmente chiede aiuto ad altri; da solo, raggiunge la posizione cui aspira.
+Ha un carattere chiuso e introverso, non portato a esternare i suoi progetti e le sue idee.
+Diffidente per natura, vede nemici dappertutto e vive corazzato contro eventuali inganni. 
+Il Capricorno Ã¨ costantemente rivolto al futuro,ad acquisire la saggezza, sempre pronto al superamento di se stesso e al raggiungimento delle mete poste.
+Dall'altro lato, gli aspetti negativi di questo segno mostrano un'esagerata fiducia in se stessi, una certa propensione alla solitudine e un certo masochismo.
+Il segno del Capricorno spinge alla realizzazione professionale: 
+il nativo vuole realizzarsi e possibilmente raggiungere il potere, indipendentemente dal trattamento economico.
+Molti nativi si dedicano all'imprenditoria o alla politica. In ambito lavorativo sono sempre molto apprezzati:
+lavorano sodo ed hanno un profondo senso di responsabilitÃ . PiÃ¹ difficile e impegnativo Ã¨ il compito loro assegnato, piÃ¹ si sentono stimolati.
+Il tipo Capricorno solitamente predilige professioni legate al campo scientifico o di ricerca. 
+Il suo senso di giustizia puÃ² spingerlo anche verso attivitÃ  legali o politiche.
+Anche nei sentimenti i nativi del Capricorno sono dei tenaci costruttori; sono dei partner seri e affidabili, anche se non molto espansivi.
+Vulnerabile emotivamente, il tipo Capricorno Ã¨ dominato da un senso di inadeguatezza, che si traduce nel costante bisogno di essere considerato e benvoluto
+dalle persone che gli stanno intorno.
+Pretende tanto da se stesso, che non riesce mai a sentirsi veramente a posto.
+La sua insicurezza di fondo lo fa apparire freddo e distaccato nei confronti degli altri; se poi avverte avversione si cela dietro un completo mutismo,
+che lo fa erroneamente apparire uno snob. Al contrario, quando si sente accettato, acquista sicurezza di sÃ© e si concede amabilmente, rivelando un animo delicato,
+attento alle necessitÃ  del prossimo. La timidezza, sua caratteristica fondamentale, Ã¨ una maschera per celare il suo bisogno d'affetto. 
+In amore Ã¨ estremamente prudente. Quando si innamora, diviene per sempre.
+Amante appassionato ma in un rapporto ha bisono di intesa mentale e non accetta compromessi e menzogne.</template>
+  </category>
+  <category>
+    <pattern>CANCRO</pattern>
+    <template>
+Il <set name="sign">Cancro</set> il lunatico dei segni zodiacali; il cancerino soffre di variazioni d'umore evive in un continuo alternarsi di malinconia e allegria.
+I nativi del Cancro sono individui dolci e sensibili, portati per la famiglia e i valori tradizionali, ma sono anche dotati di una tecnica analitica
+e di introspezione fuori dal comune: non per niente moltissimi scrittori appartengono a questo segno.
+Molto capriccioso, la sua psiche e il suo mondo spirituale sono mutevoli la sua immaginazione ha una parte rilevantissima nella sua vita.
+Il Cancro vive di ricordi pur mantenendo il senso del presente timoroso del futuro.
+Il nativo vive nella costante incertezza di non sapere esattamente chi rappresenta, e cosa vuole.
+Decisamente questo segno enigmatico per eccellenza, impossibile poter decifrare le diverse sfumature che convivono nel suo intimo.
+Le sensazioni umane vengono vissute in modo talmente profondo da rendere il cancerino impressionabile e vulnerabile alle pressioni del mondo esterno
+e per difendersi dagli attacchi oppone una corazza di ostinazione e tenace pazienza. Tende a superare anche le peggiori situazioni grazie alla sua tenacia.
+Il Cancro indisposto ad aprirsi verso il prossimo, soprattutto per quanto riguarda i propri segreti. Questa sua diffidenza e chiusura da ricercarsi soprattutto in una
+certa timidezza, presunzione e vanitÃ  che lo caratterizza.
+Certamente difficile conoscere a fondo il suo animo, spesso nascono conflitti inpenetrabile la sua robusta corazza. In ogni caso il nativo intuisce il momento di uscire
+allo scoperto; grazie alla dose di fiuto che possiede, egli fa leva sui sentimenti altrui e riesce a ottenere aiuti e appoggi.
+Le sue debolezze caratteriali sono ottimamente compensate dalle grandi doti di perseveranza e prudenza. 
+Spesso il nativo eccelle in campo artistico; il grande amore per la casa e per tutto quello che sa di passato lo indirizza anche a scegliere il settore correttamente nel
+settore arredamento e antiquariato.
+La sua memoria e il calore che riesce a diffondere intorno spesso lo spingono ad insegnare cosÃ¬ come la grande abilitÃ  e la dolcezza usata nel parlare,
+unita al senso di giustizia, lo portano ad intraprendere la carriera forense o giuridica.
+Il cancerino ha costantemente bisogno di amicizia e comprensione. Sul piano affettivo ha il bisogno di appoggiarsi a persone fidate.
+Vive nel perenne desiderio di essere accettato e benvoluto da tutti; ottiene sempre ottime amicizie in quelle persone che sapranno comprendere i suoi attimi di
+depressione e che sapranno affrontarlo positivamente nei frequenti momenti di cambiamento di umore.
+Essere amico di un cancro non Ã¨ davvero facile: basta non essere d'accordo su un qualcosa, per scatenare in lui il mutismo piÃ¹ insopportabile,
+e bisogna essere tanto forte da sopportare i suoi cambiamenti di umore. Una volta abbassata la guardia e diventato vostro amico, esso lo rimane per sempre.
+Il Cancro detesta ogni forma di violenza ed atteggiamenti troppo brutali. Non dimentica mai una scortesia e aspetta il momento piÃ¹ adatto per ottenere giustizia.
+Per il cancerino l'amore Ã¨ la sua linfa vitale; romantico e sentimentale, crede negli affetti durevoli.
+La sua vita Ã¨ molto spesso guidata da un ideale romantico e sentimentale,
+anche se non Ã¨ difficile trovare nati sotto il segno del Cancro che aspirano ad accumulare beni materiali a tutti i costi; questo perchÃ© Ã¨ amante del lusso,
+dei viaggi e delle cose belle. In amore Ã¨ totalitario e geloso, ma difficilmente lascia trapelare questo sentimento, preferisce nascondersi dietro un'aria indifferente.
+Sa essere un vero compagno, con cui si puÃ² affrontare ogni problema.
+Anatomicamente governa lo stomaco e il sistema linfatico e ghiandolare. I punti piÃ¹ vulnerabili sono il torace e il seno;
+il nativo deve curare l'alimentazione perchÃ© predisposto ai disturbi di stomaco e fegato. Il sonno Ã¨ per lui molto importante al fine di trovare il giusto equilibrio.
+</template>
+  </category>
+  <category>
+    <pattern>PESCI</pattern>
+    <template>
+Il nativo dei <set name="sign">Pesci</set> ha un carattere complesso e pieno di contrasti. Ãˆ in lotta continua con se stesso, spinto da due nature contrastanti: 
+la prima, donata da Giove, estroversa, sensuale ed ottimista, la seconda, donata da Nettuno, piÃ¹ triste e introversa.
+Queste due nature conferiscono al nativo una natura misteriosa ed affascinante, che, unite alla sua dolcezza,
+sa attirare magneticamente gli aiuti e le protezioni di cui ha bisogno.
+Tra i pregi piÃ¹ evidenti si riscontrano la sensibilitÃ , l'immaginazione e la ricchezza interiore.
+Il tipo Pesci Ã¨ incline verso una profonda religiositÃ  e verso il misticismo. Ãˆ dotato di doti medianiche, che gli consentono di leggere l'animo altrui.
+Un'altra caratteristica di questi tipi Ã¨ la loro vulnerabilitÃ  unita a una grande indecisione.
+Istintivamente portato ad evitare l'azione, il nativo dei Pesci si astiene il piÃ¹ possibile dal prendere decisioni, non gli mancano certo le idee, quanto la forza e
+determinazione di portarle avanti. A volte corre il rischio di perdersi in mille progetti che difficilmente si potranno attuare per cui avrebbe bisogno di una ferrea
+autodisciplina, o al limite, di un partner che lo costringa a stare con i piedi ben fermi a terra.
+Sul piano del lavoro, eccelle in tutte le attivitÃ  in cui puÃ² mettere a frutto il suo fascino, la sua forte memoria e la capacitÃ  istintiva di imparare le lingue straniere.
+Gli sono quindi molto congeniali professioni collegate con l'estero e con gli scritti. Brilla, inoltre, nella danza, nel calcio, nella cura della bellezza e nella medicina.
+Inoltre questi romantici, delicati e complessi Pesci, individui nati con un fortissimo senso religioso, dalla sensualitÃ  malinconica, sono individui fatti per l'arte;
+non a caso in questo segno si annoverano musicisti tormentati, poeti maledetti e pittori. La vita interiore dei Pesci Ã¨ spesso spesa nella ricerca del senso dell'esistenza
+e della fede autentica.
+Pur essendo privo di un vero senso della realtÃ  e dal desiderio di possedere ricchezze, il nativo Pesci riesce sempre ad assicurarsi il minimo indispensabile.
+Anche nel lavoro, come nella vita, ha bisogno di trovare un compagno giusto che lo sostenga e lo sproni, facendogli superare timidezza e indecisione.
+Naturalmente portato a socializzare, per questo segno Ã¨ molto facile far amicizia. Tende a stringere legami profondi e duraturi, basati sulla stima e sul rispetto;
+la sua cerchia di amici Ã¨ solitamente molto ristretta.
+L'amore Ã¨ un sentimento importantissimo per queste creature, che adorano lasciarsi andare a storie appassionate e travolgenti.
+Tenerezza, romanticismo e passione non possono mancare in un rapporto con loro.
+Il nativo Pesci Ã¨ un partner molto attento alle necessitÃ  altrui e sempre premuroso e disponibile a concedere tenerezze e dolci momenti:
+attenti perÃ² alla sua imprevedibilitÃ .
+Vivergli accanto non Ã¨ forse molto facile, bisogna possedere in egual misura pazienza e fermezza, ma certamente questo segno puÃ² dare un tocco di colore al vivere quotidiano.
+</template>
+  </category>
+  <category>
+    <pattern>SCORPIONE</pattern>
+    <template>
+Il nativo Scorpione ha una personalitÃ  tra le piÃ¹ complesse dello zodiaco, animata da intense e contrastanti passioni.
+Lo <set name="sign">Scorpione</set> ha un temperamento stravagante, individualista, combattivo; Ã¨ geloso e possessivo, dotato di un'intelligenza analitica profonda ed Ã¨ mosso da una
+costante ansia di trasformazione.
+I nativi possiedono incredibili quantitÃ  di energia ed una capacitÃ  di leggere l'animo umano grazie alla loro profonda intuizione che li porta a cogliere con
+immediatezza ogni aspetto delle diverse situazioni. Sono estremisti in tutto e spesso sono portati a soluzioni drastiche.
+All'apparenza i tipi Scorpione sono freddi e chiusi, ma la riservatezza Ã¨ un modo per nascondere il loro ricco mondo interiore; non esternano le loro emozioni,
+spesso le scaricano violentemente. Sono molto suscettibili e talvolta scambiano per provocazione anche le semplici divergenze.
+Sono ovviamente persone ricche di molti pregi, dotati di una forza d'animo eccezionale, una visione non convenzionale della vita, ambizione e grande senso di
+responsabilitÃ  nei confronti degli altri.
+Lo Scorpione vive in costante polemica con tutto e tutti, ma soprattutto con se stesso; a volte Ã¨ colto da sconforto e diventa lunatico. Conosce tutte le sfumature
+dei sentimenti: crudeltÃ  e spiritualitÃ , odio e amore, morte e rinascita.
+Il nativo adora le discussioni intelligenti, in cui dare sfogo alle sue convinzioni e al suo animo appassionato e difficilmente riesce ad ammettere di aver torto.
+Coraggioso e prepotente, risulta incapace di accettare un ruolo secondario, nÃ© tantomeno accetta che qualcuno metta in discussione il suo agire.
+Ãˆ dotato di una forte memoria e di uno spirito di vendetta.
+Il suo sangue freddo gli consente di affrontare ogni ostacolo e difficilmente chiede o ascolta consigli.
+La profonditÃ  d'animo, la capacitÃ  di scrutare nell'intimo, l'attitudine alla ricerca di significati profondi, fanno sÃ¬ che il tipo Scorpione abbia una predisposizione
+per le professioni legate al mondo della psicologia e delle investigazioni, inoltre Ã¨ un abilissimo uomo d'affari, con un fiuto eccezionale per il mondo della finanza e
+degli investimenti; Ã¨ anche portato per le attivitÃ  scientifiche.
+L'erotismo in questo segno domina i pensieri e gli istinti sono estremamente potenti.
+La sua natura passionale, lo porta a vivere forti emozioni, siano queste positive o negative.
+In un rapporto, sia esso di amicizia o d'amore, lo Scorpione dona tutto se stesso, con fervore.
+L'animo generoso lo porta spesso ad aiutare qualche amico bisognoso. Di solito apre il proprio cuore alle persone piÃ¹ disparate per ceto sociale, cultura e colore;
+l'unica regola Ã¨ quella di rispettare i suoi spazi vitali.
+Anche in amore Ã¨ mutevole: passa facilmente dalla tenerezza alla durezza. Nel profondo del suo animo sente il bisogno di una vita sentimentalmente serena, ma la sua
+natura passionale non gli consente quasi mai di raggiungerla. Per lui la vita Ã¨ in costante movimento, trova un attimo di tranquillitÃ  solo quando incontra una persona
+che lo ami sinceramente e che sia disposta a tollerare i suoi umori mutevoli. Allora la ripaga con affetto infinito, la protegge e la vizia costantemente.
+</template>
+  </category>
+  <category>
+    <pattern>ARIETE</pattern>
+    <template>
+
+Il segreto del fascino di questo segno risiede nell'imprevedibilitÃ  e nella convivenza di aggressivitÃ  e debolezza.
+Le caratteristiche dominanti dell'<set name="sign">Aries</set> sono, infatti, l'energia, il coraggio, l'impulsivitÃ , l'aggressivitÃ  e la generositÃ .
+L'Ariete ha un'intelligenza viva, possiede grande forza ed energia, ed Ã¨ sempre pronto a prendere l'iniziativa in ogni occasione.
+Ãˆ irrequieto e imprudente: incorre spesso in errori di scelta, dovuti alla mancanza di riflessione. Non essendo un razionale,
+si lascia guidare dall'impulsivitÃ , senza valutare la situazione, convinto di poter raggiungere il suo obiettivo.
+Il coraggio e l'audacia nell'affrontare le situazioni prendono spesso la forma di ostinazione e di testardaggine soprattutto quando incontra inattesi ostacoli.
+Data la sua incapacitÃ  di immedesimarsi nelle altrui esigenze l'Ariete viene talvolta accusato d'egocentrismo.
+Egli vive sempre il momento presente, ha scarsa memoria del passato e non si cura certo del futuro. Nel lavoro come nella vita tende ad assumere un ruolo leader
+e sopporta a fatica costrizioni e imposizioni.
+Le professioni a lui congeniali sono la carriera militare e politica, l'attivitÃ  imprenditoriale e sportiva. Molti Ariete si sentono attratti dalla medicina e
+soprattutto dalla chirurgia, grazie al sangue freddo che sanno dimostrare in ogni circostanza. In generale per i nativi del segno sono inadatte le attivitÃ  di routine.
+L'Ariete ha un animo romantico e bisognoso d'affetto e di rassicurazioni. Sa essere un amico leale e disponibile, pronto a offrire il suo aiuto a chiunque ne abbia bisogno.
+Ãˆ vero, comunque, che non Ã¨ sempre facile sopportare il suo modo brusco di esprimersi e sono pochi quelli disposti a tollerare lo stressante ritmo di vita che impone.
+Solitamente tende a vivere le passioni amorose con trasporto e passionalitÃ . Non si puÃ² definire l'Ariete un modello di fedeltÃ : il costante bisogno di rassicurazione in 
+merito alle sue capacitÃ  amorose, lo spingono spesso a cercare avventure. Con il partner tende ad assumere sempre un ruolo di comando. L'abilitÃ  di chi gli sta vicino deve
+essere quella di saperlo portare, con dolcezza, a far le cose desiderate, pur lasciandogli credere di essere stato lui l'unico artefice delle sue scelte.
+</template>
+  </category>
+  <category>
+    <pattern>TORO</pattern>
+    <template>
+Il segno del <set name="sign">Toro</set> simboleggia l'arte, la bellezza, il talento musicale. Il nativo ha uno spiccato talento artistico e ama il bello in ogni sua manifestazione.
+Il Toro Ã¨ incline a considerarsi infallibile: tutto ciÃ² che fa Ã¨ sempre perfetto.
+Predilige la stabilitÃ , la sicurezza materiale e psicologica; e, nonostante la sua capacitÃ  di iniziativa, Ã¨ piuttosto abitudinario.
+L'esigenza principale del nativo del Toro Ã¨ pianificare della propria esistenza. Lavora per accumulare beni e ricchezze, il tutto per creare solide basi di sicurezza.
+Ãˆ estremamente possessivo siano verso oggetti che verso le persone che ama e vuole sempre proteggere quanto possiede.
+Spesso Ã¨ romantico, ma al momento dello slancio Ã¨ la sua concretezza ad avere il sopravvento.
+Il nativo del Toro ha un grande amore per la natura e per la terra. La caratteristica fondamentale dei nativi Ã¨ la fermezza di intenti.
+Le conquiste del Toro non sono mai ottenute con impeto, ma con lentezza e metodo, ponderando molto attentamente tutti i rischi di un'impresa.
+L'istintiva diffidenza gli impedisce di confidare ad altri i propri progetti e, solitamente, non ama vantarsi troppo delle mete raggiunte.
+Ha sempre bisogno di avere un tetto sicuro sulla testa e quando non riesce a trovare la stabilitÃ  finanziaria cade preda di sconforti, anche se di breve durata.
+Ãˆ il segno che meglio di tutti apprezza il bel rilassarsi, ma si concede pause solo dopo aver raggiunto il traguardo prefisso.
+Il tipo del Toro vuole proteggere quanto possiede.
+La diplomazia Ã¨ per il Toro il miglior mezzo per affermarsi, difficilmente cede allo scoraggiamento, rimane fedele alle proprie idee ed ai propri proponimenti.
+Alla forza di resistenza, alla calma e alla e perseveranza, si associano la ponderatezza e la pazienza.
+Nel mondo del lavoro pochi sono i rivali in grado di eguagliarlo:
+oltre alla grande energia, possiede un'intelligenza pratica che gli consente di affrontare ogni tipo di ostacolo.
+Ai nativi del Toro sono adatte le professioni legate all'edilizia, all'arredamento, all'abitazione in generale, dove mette in gioco il suo buon gusto.
+Molti Toro si dedicano all'insegnamento; altri, attratti dal grande amore per la natura e la campagna, svolgono attivitÃ  in questi settori.
+L'amore per la buona tavola li predispongono anche alle carriere di albergatore o ristoratore.
+In qualsiasi campo scelgano di operare, gli appartenenti a questo segno si impegnano molto professionalmente,
+motivati dalla ricerca della sicurezza su cui impostare la propria vita.
+Dal punto di vista dell'amicizia, un Toro Ã¨ sempre pronto ad elargire consigli, anche se non richiesti, soprattutto se vede qualcuno in difficoltÃ ;
+questo puÃ² renderlo un po' invadente, ma sicuramente amorevole e premuroso. Se anche intreccia numerose amicizie, ben pochi sono coloro che possono vantarsi di essere
+considerati veramente intimi.
+Quando si innamora lo fa in modo totalitario. La sua natura appassionata lo porta a desiderare con il partner un rapporto completo, fatto di unione spirituale,
+comunione di interessi e solide basi economiche. PassionalitÃ  e bisogno d'affetto, spingono il nativo a cercare costantemente l'anima gemella: una volta trovata,
+la colma di affetto ed attenzioni. L'amicizia e l'amore costituiscono per il Toro delle vere proprietÃ , per difendere le quali Ã¨ pronto davvero a tutto.
+Punti vulnerabili del segno sono collo e gola, per cui le malattie piÃ¹ caratteristiche del Toro sono tonsilliti o infiammazioni alla gola; in via secondaria possono
+accusare disturbi all'esofago o disfunzioni alla tiroide.
+</template>
+  </category>
+  <category>
+    <pattern>BILANCIA</pattern>
+    <template>
+Vi sono due tipi di <set name="sign">Bilancia</set>: il primo dominato da una natura aperta e gentile, portata alla tolleranza e ai compromessi, il secondo dominato da una natura severa e schiva
+che porta il nativo ad avere pudore dei sentimenti provati e a tenere tutto per sÃ©. In generale il tipo Bilancia ha un carattere piuttosto vivace, sereno e contrario
+all'aggressivitÃ ; possiede simpatia, gentilezza, senso estetico e di giustizia.
+Altre doti del tipo Bilancia sono la capacitÃ  d'adattamento, il senso dell'arte e della giustizia, il desiderio di equilibrio e di armonia, la capacitÃ  d'immedesimarsi
+con gli altri, la tendenza a soccorrerli.
+Per il nativo Ã¨ essenziale vivere in un ambiente governato dall'ordine e dalla concordia: per questo motivo preferisce temporeggiare quando deve affrontare qualche situazione
+critica. Ãˆ il classico tipo per cui il tempo Ã¨ la migliore medicina. Predilige il compromesso e tenta ogni mediazione prima di arrivare allo scontro. In ogni caso,
+il profondo amore per la giustizia lo porta a diventare duro e deciso, nel momento in cui ciÃ² sia inevitabile. Per questo segno Ã¨ sempre molto importante sentirsi amato e usa
+tutto il fascino del mondo per creare l'atmosfera giusta, che lo faccia accettare da tutti. Non sa fronteggiare offese o attacchi frontali, troppo violenti, provenienti dal
+mondo. Quando ciÃ² accade il nativo si rinchiude in se stesso, sprofondando in depressione. La sua meticolositÃ  porta il nativo ad avere un atteggiamento costantemente
+esitante quando deve prendere una decisione: valuta i pro e i contro di ogni cosa e trova la via piÃ¹ comoda per raggiungere lo scopo prefisso. Del resto, Ã¨ il segno che
+meglio sa accontentarsi di quanto la vita offra, senza arrovellarsi troppo inseguendo sogni irrealizzabili. Solitamente il nativo predilige lavori che gli concedano ampi spazi.
+Se riesce a trovare l'attivitÃ  adatta si impegna con serietÃ  e dedizione per svolgere i propri compiti. Il fascino personale e il grande rispetto per l'equilibrio
+gli permettono di brillare nelle professioni che presuppongono capacitÃ  diplomatiche. La passione per tutto ciÃ² che Ã¨ eleganza e finezza fa sÃ¬ che primeggi in professioni
+legate al campo della moda e della gioielleria. Comunque dÃ  il massimo di sÃ© quando abbraccia carriere legate al mondo della legge.
+L'amicizia Ã¨ per lui indispensabile.
+Difficilmente riesce a vivere solo e ama circondarsi di persone intelligenti, con cui ama parlare piacevolmente di musica, arte o letteratura.
+Sa essere un amico tollerante e paziente, piÃ¹ facilmente portato ad assecondare che a controbattere. Non ama le sfuriate e difficilmente si lascia trascinare
+in animate e stancanti discussioni. Ãˆ il tipo che pensa prima di reagire, ma quando Ã¨ necessario scatena la propria implacabile ironia.
+Tuttavia, per fortuna, Ã¨ poi abbastanza facile fare pace con questo segno.
+Le grandissime doti di fascino e i modi raffinati, di cui Ã¨, dotato, gli consentono facilmente di conquistare il cuore di chi gli interessa.
+Il bisogno costante di vagliare i pro e i contro, portano la Bilancia alla piÃ¹ completa indecisione. Vuole comunque un partner sincero ed intelligente,
+con cui poter comunicare: non gli interessa tanto la passione quanto i sentimenti. Solitamente Ã¨ geloso, possessivo e fedele e vuole instaurare un rapporto in cui
+non trovino spazio discussioni o volgaritÃ .
+</template>
+  </category>
+  <category>
+    <pattern>SAGITTARIO</pattern>
+    <template>Questo segno, fra i piÃ¹ avventurosi, giovanili e ambiziosi dello zodiaco, porta il nativo a obiettivi grandiosi, ad attendere traguardi eccezionali.
+Il nativo <set name="sign">Sagittario</set> ha un carattere aperto ed espansivo: i cambiamenti continui, i contatti con gente sempre nuova, le esperienze piÃ¹ disparate,
+costituiscono l'elemento caratteristico della sua personalitÃ .
+Il Sagittario Ã¨ allegro, spiritoso ed estremamente vivace. Ben pochi possono resistere al suo trascinante e ottimistico fascino.
+Forse Ã¨ per questo motivo che solitamente Ã¨ tanto fortunato. Difficilmente si lasciano scoraggiare e anche dopo delusioni ed insuccessi, riprendono con grande energia
+le proprie occupazioni, senza perdersi d'animo. L'intelligenza viva, unita a una curiositÃ  illimitata, consente al nativo di essere sempre informato su tutto e su tutti.
+Egli vive nella convinzione di avere una missione: portare la veritÃ  agli uomini.
+Il Sagittario Ã¨ inoltre dotato di una buona dose di spiritualitÃ  e di un profondo senso religioso.
+Sincero ed esplicito, ama la veritÃ  sopra ogni cosa e spesso manca di diplomazia.
+Le sue caratteristiche gli consentono di abbracciare con successo le carriere forensi e giudiziarie. In questo segno si trovano, inoltre, scienziati, astronauti, filosofi,
+tutte personalitÃ  che hanno contribuito ad allargare gli orizzonti cognitivi dell'umanitÃ .
+Anche l''insegnamento Ã¨ molto indicato per queste creature, che mietono consensi grazie alla vivacitÃ  e all'interesse con cui riescono ad ammaliare studenti e genitori;
+cosÃ¬ come trovano molto spesso nella professione di guida turistica o di agente di viaggio, il modo piÃ¹ utile di conciliare professione e passione.
+Spirito indipendente e anticonformista, il tipo Sagittario ama la propria libertÃ  al di sopra di tutto ed Ã¨ disposto a qualunque sacrificio pur di poterla mantenere.
+Adora stare in mezzo a gente simpatica e spiritosa, ma non sopporta il pettegolezzo nÃ© la grossolanitÃ  per questo seleziona attentamente la sua cerchia di amici.
+Adora organizzare feste e intrattenimenti mondani, ma la sua vera passione Ã¨ la vita all'aria aperta.
+In amore, la sua indole irrequieta ed entusiasta a volte lo porta a commettere l'errore di scambiare un'infatuazione passeggera per il grande amore.
+Per legare solidamente con una persona nata sotto il segno del Sagittario Ã¨ necessario darle prova concreta di amicizia, di stima e soprattutto lasciargli la sua libertÃ .
+Un partner troppo possessivo con lui ha sempre vita dura. Quando incontra l'anima gemella, emerge la sua natura romantica e generosa, che sa donare con entusiasmo,
+calore e passione.
+I nativi sono sicuramente degli ottimi compagni, difficilmente riescono, perÃ², ad essere costanti nei loro affetti; non Ã¨ difficile infatti trovare rappresentanti di
+questo segno che nella loro vita hanno cambiato piÃ¹ volte partner.
+</template>
+  </category>
+  <category>
+    <pattern>VERGINE</pattern>
+    <template>I nati sotto questo segno sono meticolosi e organizzati, talvolta un po' troppo pignoli e calcolatori.
+La <set name="sign">Vergine</set> simboleggia il mondo domestico e l'intelligenza che domina il sentimento:
+infatti Ã¨ il segno dell'esaltazione della ragione. Efficienza, precisione, programmazione, sono tutte qualitÃ  riscontrabili nei tipi Vergini.
+Sentono sempre la necessitÃ  di tenere tutto sotto controllo. Il punto debole del segno Ã¨ la difficoltÃ  a rilassare la mente e a non essere cosÃ¬
+severo.
+La psicologia del nativo Vergine Ã¨ piuttosto complessa e ricca di ambivalenze; in lui convivono sensazioni che oscillano tra benessere e malessere.
+La moderazione Ã¨ un aspetto caratteristico del suo carattere, trova difficile abbandonarsi ai facili entusiasmi o alla pura passionalitÃ  e mantiene
+in ogni occasione un atteggiamento cauto. Detesta tutto ciÃ² che Ã¨ confusione e incoerenza; l'ordine Ã¨ importantissimo per lui, tanto che spesso si manifesta
+in forma maniacale. Ha un bisogno costante di gratificazioni e approvazioni in quanto soffre di un perenne senso di inferioritÃ .
+Generalmente ha un alto valore del denaro, non ama spendere soldi, a meno che non sia indispensabile; ma quando le circostanze lo esigono sa,
+comunque, essere molto generoso. Conosce l'arte di vivere bene e anche se non ammette sprechi non si fa mai mancare nulla.
+Il tipo Vergine Ã¨ fortemente apprezzato nell'ambiente lavorativo, grazie alla sua prontezza mentale, capacitÃ  di giudizio ed il senso morale.
+La sua mente lucida e la sua intelligenza, rendono il tipo Vergine adatto allo studio approfondito delle materie filosofiche e scientifiche.
+Possiede una notevole abilitÃ  manuale ed Ã¨ particolarmente destinato al successo, in attivitÃ  legate al campo della moda, della medicina o della chimica.
+La sua serietÃ  e la capacitÃ  di attirare la stima degli altri, gli consentono di abbracciare carriere politiche. Sa anche essere un ottimo insegnante.
+Qualunque sia la sua professione, il nativo Vergine Ã¨ un fervente sostenitore della cultura, un intellettuale nato che preferisce dedicarsi allo studio piÃ¹ che ai divertimenti.
+In campo affettivo lascia trapelare poco dei suoi sentimenti; prudente e timoroso di soffrire, il nativo Vergine si protegge trincerandosi dietro indifferenza e riservatezza.
+Ma non Ã¨ certo un freddo: anzi, ha grande bisogno di affetto anche se gli Ã¨ molto difficile ammetterlo. Il Vergine ha un disperato bisogno di amici fidati,
+con cui superare le difficoltÃ  della vita e le sue crisi esistenziali. Per un amico fidato il Vergine Ã¨ capace di ogni sacrificio.
+Ãˆ estremamente critico verso se stesso e verso gli altri.
+Sentimentalmente il tipo Vergine, dato il suo carattere poco socievole e solitario, tende ad avere qualche problema: spesso infatti le unioni sono poco durevoli.
+La sua natura introversa e riservata gli impedisce di dar sfogo ai suoi sentimenti e delle sue emozioni.
+I nativi del segno preferiscono pianificare la loro esistenza in modo da non lasciar spazi all'imprevisto perchÃ© i cambiamenti e le novitÃ  risvegliano le loro insicurezze.
+In amore pretendono comunque un partner serio ed intelligente, che possa condividere i loro stessi interessi culturali.
+Sanno essere dei perfetti compagni per chi sa comprenderli e accettare i loro difetti e con la persona giusta sanno essere partner affettuosi e solidi.
+</template>
+  </category>
+  <category>
+    <pattern>GEMELLI</pattern>
+    <template>
+Il segno dei <set name="sign">Gemelli</set> rappresenta l'intelligenza, l'intuito e la curiositÃ . Colpiscono il prossimo per la loro versatilitÃ , dinamismo e vitalitÃ .
+Ãˆ il segno legato alla sete di conoscenza, alle novitÃ , ai cambiamenti, alla .passione per i viaggi e alla vita sociale.
+Il nativo dei Gemelli Ã¨ sempre curioso di tutto e di tutti; passa con facilitÃ  da un interesse all'altro, da un'impresa all'altra.
+Ãˆ attratto dai cambiamenti e dall'imprevisto e spesso lascia un'opera incompiuta per iniziarne un'altra che lo attrae di piÃ¹.
+In questo modo il Gemelli corre il rischio di non riuscire a realizzare programmi a lunga scadenza.
+I tipi Gemelli non cessano mai di ampliare le loro conoscenze, pur essendo convinti di non poter esaurire la propria intima ricchezza.
+Hanno uno spiccato senso dell'umorismo e sono molto comunicativi. Occorre perÃ² ricordare che in lui risiedono sempre due opposte nature.
+Non dimentichiamo che Ã¨ il segno che produce solitamente due ben diversi tipi di persona: il superficiale per eccellenza o il riflessivo.
+Tra i nativi possiamo quindi trovare il piÃ¹ classico bugiardo e l'imbroglione o l'individuo virtuoso.
+Il segreto del loro successo risiede nell'enorme fascino con cui riescono a stregare il pubblico: nessuno meglio di un Gemelli sa assumere
+l'espressione piÃ¹ appropriata alle circostanze. L'agilitÃ  mentale gli consente di essere sempre preparato su qualunque argomento anche se a volte in modo superficiale.
+Il carisma personale e la grande abilitÃ  con cui riesce ad imporsi fanno del nativo il manager per eccellenza. La sua versatilitÃ  gli consente di intraprendere qualsiasi
+professione: quella perÃ² a lui piÃ¹ congeniale Ã¨ l'attivitÃ  commerciale. Tra le altre professioni. Il diplomatico, il politico, il presentatore, l'attore, il giornalista,
+il pilota. Comunque, qualunque sia il settore professionale verso cui si indirizza un Gemelli, certamente riesce ad assicurarsi una vita economica salda.
+Ãˆ attratto da tutto ciÃ² che Ã¨ bello, insolito e nuovo. Ãˆ un amico brillante e scanzonato, cui raccontare tutto e chiedere consiglio su un'infinitÃ  di argomenti.
+Affettivamente Ã¨ piuttosto tiepido, preferisce avere un ampio giro di conoscenze piuttosto che vivere a senso unico un'amicizia. Certamente si puÃ² essere sicuri dei suoi
+sentimenti, scevri da ipocrisia e falsitÃ . Ha bisogno di stare in mezzo agli altri. Ãˆ allegro e fa di tutto per piacere.
+Sa essere un amante affascinante e fantasioso, accanto al quale non si conosce certo la noia.
+Il suo ideale di amore Ã¨ costituito da un perfetto accordo di anima ed intelletto; possiede un profondissimo senso di libertÃ  personale e un bisogno di indipendenza tale
+da scoraggiare un partner troppo possessivo. Comunque, quando incontra l'anima gemella Ã¨ ben felice di condividere l'esistenza.
+Il Gemelli anatomicamente governa l'apparato respiratorio e le braccia; il nativo deve temere bronchiti, polmoniti, piccoli incidenti che interessano gli arti.
+Ãˆ inoltre predisposto alla fragilitÃ  nervosa.
+</template>
+  </category>
+
+  <category>
+    <pattern>LEONE</pattern>
+    <template>
+Il <set name="sign">Leone</set> Ã¨ il segno della fierezza, dell'orgoglio e della forza. Il nativo del Leone non sopporta nessuna forma di costrizione:
+l'indipendenza Ã¨ la condizione indispensabile della sua felicitÃ . Ãˆ autoritario, audace, attivo. Vuole comandare e primeggiare, ma sa essere molto generoso;
+il suo ideale Ã¨ essere giusto e magnanimo.
+Il pericolo maggiore in cui il Leone puÃ² incorrere Ã¨ la troppa fiducia in se stesso: in determinate situazioni sarebbe piÃ¹ conveniente agire
+con un po' piÃ¹ d'umiltÃ  e prudenza.
+Dotato di grande magnetismo, volontÃ  ed energia senza limiti, il Leone Ã¨ passionale, intelligente, ma spesso eccessivo. A volte puÃ² risultare antipatico per voler
+sempre ostentare sÃ© e le sue vittorie. Chi gli vive accanto deve avere la pazienza e l'ironia necessarie per accettare questi difetti del Leone, ricordandone la generositÃ .
+Il suo piÃ¹ alto valore Ã¨ la lealtÃ ; si assume in prima persona le proprie responsabilitÃ  e questa grande qualitÃ  fa sÃ¬ che il suo protagonismo passi in secondo piano.
+Vuole essere il primo in ogni cosa e quando viene sconfitto, reagisce con forza e orgoglio, non si abbandona certo allo sconforto,
+Ãˆ nel settore lavorativo che il Leone si esprime al meglio: la sua perseveranza e determinazione, la capacitÃ  di saper affrontare qualsiasi situazione
+si presenti e il suo fascino lo rendono vincente in ogni settore.
+Non esiste una specifica attivitÃ  dove il Leone possa primeggiare: puÃ² dedicarsi al campo artistico, come a quello scientifico, al mondo della finanza
+come a quello politico, l'importante per lui Ã¨ emergere ed affermarsi.
+Ama moltissimo il lusso e il successo; non sopporta le meschinitÃ  e difficilmente tollera critiche alla propria persona.
+Ãˆ disposto a tutto per le persone cui vuol bene ed Ã¨ sempre pronto a dare una mano a chi gliela chiede, pretendendo, in cambio, fedeltÃ  e stima.
+Per lui adulazioni e complimenti sono elementi fondamentali dell'esistenza.
+Conosce tutti i segreti per corteggiare e ammaliare il partner, che vicino a lui si sente protetto. Generalmente il Leone Ã¨ molto fortunato nei rapporti con l'altro sesso:
+riesce a trasformare la piÃ¹ semplice storia d'amore in qualcosa di unico ed irripetibile. Quando si innamora lo fa con passione travolgente.
+</template>
+  </category>
+</aiml>
