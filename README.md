@@ -1,1 +1,1 @@
-# -Imitatore_Linguistico_Risposta_Python
+# Imitatore_Linguistico_Risposta_Python
