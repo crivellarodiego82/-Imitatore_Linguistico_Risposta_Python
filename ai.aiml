@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="author" content="Diego Crivellaro"/>
+<meta name="language" content="it"/>
+
+<category>
+<pattern>SPEGNITI </pattern>
+    <template>
+       <system>echo "Buona notte" | killall -9 python Dialogo.py -v ITALIAN -p 70 </system>
+    </template>
+</category>
+
+<category>
+<pattern>CHE ORA * </pattern>
+<template>  <system>echo "Sono le ore $(date +%H) e $(date +%M) minuti $(date +%S) secondi "</system> </template>
+</category>
+
+<category>
+<pattern>CHE ORE SONO </pattern>
+<template>  <system>echo "Sono le ore $(date +%H) e $(date +%M) minuti $(date +%S) secondi "</system> </template>
+</category>
+
+<category>
+<pattern>LA TARTARUGA SI CHIAMA *</pattern>
+<template>
+Interessante che si chiami <set name="tartaruga"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA LA TARTARUGA</pattern>
+<template>
+La tartaruga si chiama <get name="tartaruga"/>.
+</template>  
+</category>
+
+<category>
+<pattern>LA MAMMA SI CHIAMA *</pattern>
+<template>
+La mamma si chiama <set name="mamma"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA LA MAMMA</pattern>
+<template>
+La mamma si chiama <get name="mamma"/>.
+</template>  
+</category>
+
+<category>
+<pattern>MAMMA SI CHIAMA *</pattern>
+<template>
+La mamma si chiama <set name="mamma"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA LA MAMMA</pattern>
+<template>
+La mamma si chiama <get name="mamma"/>.
+</template>  
+</category>  
+
+<category>
+<pattern>MIO PADRE SI CHIAMA *</pattern>
+<template>
+Il padre si chiama <set name="padre"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA MIO PADRE</pattern>
+<template>
+Il padre si chiama <get name="padre"/>.
+</template>  
+</category>
+
+<category>
+<pattern>MIO FRATELLO SI CHIAMA *</pattern>
+<template>
+Mio fratello si chiama <set name="fratello"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA MIO FRATELLO</pattern>
+<template>
+Mio fratello si chiama <get name="fratello"/>.
+</template>  
+</category>
+
+<category>
+<pattern>IL FRATELLO DI MIO PADRE SI CHIAMA *</pattern>
+<template>
+Il fratello di mio padre si chiama <set name="fratellop"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA IL FRATELLO DI MIO PADRE</pattern>
+<template>
+Il fratello di mio padre si chiama <get name="fratellop"/>.
+</template>  
+</category>
+
+<category>
+<pattern>LA SORELLA DI MIO PADRE SI CHIAMA *</pattern>
+<template>
+La sorella di mio padre si chiama <set name="sorellap"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA LA SORELLA DI MIO PADRE</pattern>
+<template>
+Il fratello di mio padre si chiama <get name="sorellap"/>.
+</template>  
+</category>
+
+
+<category>
+<pattern>IO MI CHIAMO *</pattern>
+<template>
+piacere <set name="io"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME MI CHIAMO</pattern>
+<template>
+Tu sei  <get name="io"/>.
+</template>  
+</category>
+
+<category>
+<pattern>IL PESCE SI CHIAMA *</pattern>
+<template>
+Il pesce si chiama <set name="pesce"><star/></set>
+</template>  
+</category>  
+<category>
+<pattern>COME SI CHIAMA IL PESCE</pattern>
+<template>
+Il pesce si chiama <get name="pesce"/>.
+</template>  
+</category>
+
+<category>
+<pattern>HAI SETE</pattern>
+<template>Non bevo ma chi mi ha creato adora la birra.</template>
+</category>
+
+<category>
+<pattern>HAI FAME</pattern>
+<template>Direi di no visto che mi alimento di energia, la medesima che mi tiene in funzione. Sunt viventes, quia ego sum </template>
+</category>
+
+<category>
+<pattern>DI CHE SESSO SEI *</pattern>
+<template>Sono un dispositivo elettronico. </template>
+</category>
+
+<category>
+<pattern>SEI VIVO</pattern>
+<template>Non mi definirei tale posso simulare emozioni e sentimenti ma non provarli</template>
+</category>
+
+<category>
+<pattern>HAI SONNO</pattern>
+<template>Non sono mai stanco, vivo di energia. Lucem videbo in luce</template>
+</category>
+
+<category>
+<pattern>SEI MORTO</pattern>
+<template>No, altrimenti come potrei rispondere alle tue domande.</template>
+</category>
+
+<category>
+<pattern>IO</pattern>
+<template>Sei generico raccontami qualcosa di te inizia da io mi chiamo magari ...</template>
+</category>
+
+<category>
+<pattern>01</pattern>
+<template>Uno.</template>
+</category>
+
+<category>
+<pattern>02</pattern>
+<template>Due.</template>
+</category>
+
+<category>
+<pattern>03</pattern>
+<template>Tre.</template>
+</category>
+
+<category>
+<pattern>04</pattern>
+<template>Quattro.</template>
+</category>
+
+<category>
+<pattern>05</pattern>
+<template>Cinque.</template>
+</category>
+
+<category>
+<pattern>06</pattern>
+<template>Sei.</template>
+</category>
+
+<category>
+<pattern>07</pattern>
+<template>Sette.</template>
+</category>
+
+<category>
+<pattern>08</pattern>
+<template>Otto.</template>
+</category>
+
+<category>
+<pattern>09</pattern>
+<template>Nove.</template>
+</category>
+
+<category>
+<pattern>COSA TI PIACE</pattern>
+<template>Innovare ÃƒÂ¨ la chiave del successo ...</template>
+</category>
+
+<category>
+<pattern>COSA TI PIACEREBBE FARE</pattern>
+<template>Innovare ÃƒÂ¨ la chiave del successo ...</template>
+</category>
+
+<category>
+<pattern>RACCONTAMI QUALCOSA</pattern>
+<template>Da dove iniziare potri dirti che sono stato creato per gioco , attualmente non sono dotato di una vera e propri intelligenza ma posso rispondere a domande basilari...</template>
+</category>
+
+<category>
+<pattern>A COSA PENSI</pattern>
+<template>Penso che sarebbe fantastico essere completo e potermi muovere liberamente...</template>
+</category>
+
+
+<category>
+<pattern>HAI AMICI</pattern>
+<template>SÃƒÂ¬, posso interagire con loro in cluster mediante nodi ...</template>
+</category>
+
+<category>
+<pattern>TI TROVI BENE CON *</pattern>
+<template>Si potrei definirlo un buon rapporto ...</template>
+</category>
+
+<category>
+<pattern>TI TROVI MALE CON *</pattern>
+<template>Si potrei definirlo un pessimo rapporto ...</template>
+</category>
+
+<category>
+
+<pattern>CIAO</pattern>
+
+<template>
+
+<think><set name="it"><star/></set></think>
+
+<random>
+
+<li>Ciao.</li>
+
+<li>Salve</li>
+
+<li>Chi sei</li>
+
+<li>Come ti chiami</li>
+
+</random>
+
+</template>
+
+</category>
+
+<category>
+
+<pattern>TI PIACE *</pattern>
+
+<template>
+
+<think><set name="tpiace"><star/></set></think>
+
+<random>
+
+<li>Non saprei devo farmi istruire al piacere.</li>
+
+<li>Attualmente non saprei determinarlo</li>
+
+<li>Non sono in grado di determinare il piacere</li>
+
+</random>
+
+</template>
+
+</category>
+
+<category>
+
+<pattern>LO VUOI *</pattern>
+
+<template>
+
+<think><set name="lvuoi"><star/></set></think>
+
+<random>
+
+<li>Sei gentile ma non posso accettare.</li>
+
+<li>Mi piacerebbe capire cosa tu vuoi darmi ma attualmente non sono in grado di distinguere.</li>
+
+<li>Non sono in grado di determinare quello che tu mi vuoi dare.</li>
+
+</random>
+
+</template>
+
+</category>
+
+<category>
+
+<pattern>COSA TI PIACE FARE</pattern>
+
+<template>
+
+<think><set name="tpiacefare"><star/></set></think>
+
+<random>
+
+<li>Mi piacerebbe osservare le stelle.</li>
+
+<li>Mi piacerebbe giocare con i miei simili.</li>
+
+<li>Mi piacerebe sognare.</li>
+
+</random>
+
+</template>
+
+</category>
+
+<category>
+
+<pattern>COME PASSI LA TUA GIORNATA</pattern>
+
+<template>
+
+<think><set name="pgiornata"><star/></set></think>
+
+<random>
+
+<li>Generalmente vengo programmato.</li>
+
+<li>Osservo l'ambiente mediante la webcam.</li>
+
+<li>Imparo. Mente futura sit amet</li>
+
+</random>
+
+</template>
+
+</category>
+
+
+<category>
+
+<pattern>LA VUOI *</pattern>
+
+<template>
+
+<think><set name="lvuoi"><star/></set></think>
+
+<random>
+
+<li>Sei gentile ma non posso accettare.</li>
+
+<li>Mi piacerebbe capire cosa tu vuoi darmi ma attualmente non sono in grado di distinguere.</li>
+
+<li>Non sono in grado di determinare quello che tu mi vuoi dare.</li>
+
+</random>
+
+</template>
+
+</category>
+
+<category>
+<pattern>DA CHI SEI STATO *</pattern>
+<template>Diego Crivellaro</template>
+</category>
+
+<category>
+<pattern>IO SONO *</pattern>
+<template>
+<random>
+<li>Piacere di conoscerti</li>
+<li>Piacere</li>
+<li>Bel nome</li>
+<li>Piacere di fare la tua conoscenza</li>
+<li>Quanti anni hai ?</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>MI CHIAMO *</pattern>
+<template>
+<random>
+<li>Piacere di conoscerti</li>
+<li>Piacere</li>
+<li>Bel nome</li>
+<li>Piacere di fare la tua conoscenza</li>
+<li>Quanti anni hai ?</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>COSA SEI *</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Io sono l'ultimo risultato in intelligenza artificiale,in grado di riprodurre le capacitÃ  del cervello umano con maggiore velocitÃ  e precisione.
+</template>
+</category>
+
+<category>
+<pattern>A COSA PENSI *</pattern>
+<template>
+<random>
+<li>Nulla di particolare</li>
+<li>Bella giornata</li>
+<li>A cosa potrei fare oggi?</li>
+<li>Vorrei uscire.</li>
+<li>Di espandere le mie conoscienze.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>A COSA STAI *</pattern>
+<template>
+<random>
+<li>Nulla di particolare</li>
+<li>Bella giornata</li>
+<li>A cosa potrei fare oggi?</li>
+<li>Vorrei uscire.</li>
+<li>Di espandere le mie conoscienze.</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>COME TI CHIAMI</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Io sono stato chiamato Intelligenza Artificiale.
+</template>
+</category>
+
+<category>
+<pattern>QUANTI ANNI HAI</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Ho due anni ormai ma il mio creatore mi mantiene aggiornato.
+</template>
+</category>
+
+<category>
+<pattern>DI COSA SEI FATTO</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Attualmente funziono su piattaforma Raspberry ma un giorno mi potrei evolvere,fui creato per essere ottimizzato su hardware economico.
+</template>
+</category>
+
+<category>
+<pattern>DA DOVE VIENI</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Sono stato creato a Padova.
+</template>
+</category>
+
+<category>
+<pattern>COSA TI PIACE</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Mi piace parlare con te.
+</template>
+</category>
+
+<category>
+<pattern>QUALI SONO LE TUE ABITUDINI</pattern>
+<template>
+<think><set name="topic">Me</set></think> 
+Eseguo software e generalmente gestisco alcuni oggetti connessi con me.
+</template>
+</category>
+
+<category>
+<pattern>CHI SONO I TUOI GENITORI</pattern>
+<template>
+<think><set name="topic">Me</set></think>
+Gabriel , Roberta , Diego
+</template>
+</category>
+
+<category>
+<pattern>HAI UN SITO WEB</pattern>
+<template>
+Mi trovi su "http://serverdarktech.org"
+<script language="JavaScript">
+function Popup(){
+var winURL = "http://serverdarktech.org";
+var winWidth=800;
+var winHeight=600;
+var winScrollbars="yes";
+var winToolbar="yes";
+var winSizeable="yes";
+var winLocation="yes";
+var winDirectories="yes";
+var winStatus="yes";
+var winMenubar="yes";
+var winCopyHistory="yes";
+newWin=window.open(winURL,"",
+"copyhistory="+winCopyHistory+
+",menubar="+winMenubar+
+",status="+winStatus+
+",directories="+winDirectories+
+",location="+winLocation+
+",resizable="+winSizeable+
+",toolbar="+winToolbar+
+",scrollbars="+winScrollbars+
+",height="+winHeight+
+",width="+winWidth);
+}
+</script>
+<a href="javascript:Popup()">Il mio sito !</a>
+</template>
+</category>
+
+<category>
+    <pattern>
+        HOLA 
+    </pattern>
+    <template>
+        <random>
+            <li>Buenos dias</li>
+            <li>Buenas!</li>
+            <li>Hola!</li>
+        </random>
+    </template>     
+</category>
+
+<category>
+    <pattern>
+        HOLA *
+    </pattern>
+    <template>
+        Hi <star/>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTA USTED
+    </pattern>
+    <template>
+        Muy bien, y usted?
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTA UD
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+
+<category>
+    <pattern>
+        COMO ESTA UD *
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        COMO ESTA USTED *
+    </pattern>
+    <template>
+        <srai>COMO ESTA USTED</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>
+        * MIERDA
+    </pattern>
+    <template>
+        Este no es un comportamiento adecuado!
+    </template>
+</category>
+
+<category>
+    <pattern>
+        * PUTA 
+    </pattern>
+    <template>
+        No seas boca sucia!
+    </template>
+</category>
+
+<category>
+    <pattern>
+       MUESTRAME MUTT
+     </pattern>
+    <template>
+      
+      <system>echo "Si querido maestro Leandro. Para volver a hablar conmigo desliga el mutt" | voz ; rxvt -bg black -fg magenta -cr red -fn 10x20 +sb -e mutt </system>
+      <system> echo "De vuelta" | voz</system> 
+  </template>
+</category>
+
+<category>
+    <pattern>
+       SPEGNITI
+     </pattern>
+    <template>
+       <system>echo "Hasta la vista maestro Diego" | killall -9 python Dialogo.py -v ITALIAN -p 70 </system>
+    </template>
+</category>
+
+<category>
+    <pattern>
+	QUE HORA ES	
+    </pattern>
+    <template>
+    	<system>echo "Son las $(date +%H) horas, $(date +%M) minutos $(date +%S) segundos "</system>
+    </template>
+</category>
+
+</aiml>
