@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<category>
+<pattern>MERCURIO</pattern>
+<template>
+Mercurio Ã¨ il pianeta piÃ¹ interno del sistema solare e il piÃ¹ vicino alla nostra stella, il Sole.
+Ãˆ il piÃ¹ piccolo e la sua orbita Ã¨ anche la piÃ¹ eccentrica (ovvero, la meno circolare) degli otto pianeti.
+Come tutti gli altri pianeti Mercurio orbita in senso diretto, a una distanza media di 0,3871 UA con un periodo siderale di 87,969 giorni terrestri.
+Mercurio Ã¨ anche in risonanza orbitale-rotazionale, che lo porta a completare tre rotazioni intorno al proprio asse per ogni due orbite attorno al Sole.
+L'eccentricitÃ  orbitale Ã¨ abbastanza elevata, 0,205, ben 15 volte superiore a quella della Terra.
+Considerando Mercurio come il piÃ¹ vicino degli otto pianeti, dalla superficie il Sole ha un diametro apparente medio di 1,4Â°, circa 2,8 volte superiore a quello visibile dalla Terra, ma arriva a 1,8Â° durante il passaggio al perielio. Il rapporto fra la radiazione solare al perielio e quello all'afelio Ã¨ 2,3, da confrontare con l'1,07 della Terra.[3] La superficie di Mercurio sperimenta la maggiore escursione termica tra i pianeti, con temperature che nelle regioni equatoriali vanno dai 100 K (-173 Â°C) della notte ai 700 K (427 Â°C) del giorno; le regioni polari invece sono costantemente al di sotto dei 180 K (-93 Â°C). A ciÃ² contribuisce il fatto che il pianeta sia privo di un'atmosfera, che non svolge alcun ruolo quindi nella ridistribuzione del calore.
+La superficie fortemente craterizzata indica che Mercurio Ã¨ geologicamente inattivo da miliardi di anni.
+</template>
+</category>
+<category>
+<pattern>VENERE</pattern>
+<template>
+Venere Ã¨ il secondo pianeta del Sistema solare in ordine di distanza dal Sole con un'orbita quasi circolare che lo porta a
+compiere una rivoluzione in 224,7 giorni terrestri.
+Prende il nome dalla dea romana dell'amore e della bellezza e il suo simbolo astronomico Ã¨ la rappresentazione stilizzata
+della mano di Venere che sorregge uno specchio.
+Ãˆ l'oggetto naturale piÃ¹ luminoso nel cielo notturno, dopo la Luna, con una magnitudine apparente di -4,6,
+e per questo motivo Ã¨ conosciuto fin dall'antichitÃ . Venere raggiunge la sua massima brillantezza poco prima dell'alba o poco
+dopo il tramonto e per questa ragione Ã¨ spesso stato chiamato da popoli antichi la "Stella del Mattino" o la "Stella della Sera",
+fino a quando Pitagora identificÃ² in Venere il responsabile di entrambe le apparizioni.
+Classificato come un pianeta terrestre, a volte Ã¨ definito il "pianeta gemello" della Terra,
+cui Ã¨ molto simile per dimensioni e massa. Per altri aspetti, tuttavia, Ã¨ piuttosto differente dal nostro pianeta.
+Venere infatti possiede un'atmosfera costituita principalmente da anidride carbonica, molto piÃ¹ densa di quella terrestre,
+con una pressione al livello del suolo pari a 92 atmosfere. La densitÃ  e la composizione dell'atmosfera creano un imponente 
+effetto serra, che rende Venere il pianeta piÃ¹ caldo del sistema solare.
+Venere Ã¨ avvolto da uno spesso strato di nubi altamente riflettenti, composte principalmente da acido solforico,
+che impediscono la visione in luce visibile della superficie dallo spazio. Il pianeta non Ã¨ dotato di satelliti o anelli e ha
+un campo magnetico debole, rispetto a quello terrestre.
+</template>
+</category>
+<category>
+<pattern>TERRA</pattern>
+<template>
+La Terra Ã¨ il terzo pianeta in ordine di distanza dal Sole e il piÃ¹ grande dei pianeti terrestri del sistema solare,sia per massa sia per diametro.
+Ãˆ il luogo primigenio degli esseri umani e nel quale vivono tutte le specie viventi conosciute,
+l'unico corpo planetario del sistema solare adatto a sostenere la vita come da noi concepita e conosciuta.
+Sulla sua superficie, infatti, si trova acqua in tutti e tre gli stati (solido, liquido e gassoso) e un'atmosfera composta in
+prevalenza d'azoto e ossigeno che, insieme al campo magnetico che avvolge il pianeta, protegge la Terra dai raggi cosmici e dalle
+radiazioni solari.
+La formazione della Terra Ã¨ datata a circa 4,54 miliardi di anni fa.Essa possiede un satellite naturale, la Luna, la cui etÃ ,
+stimata analizzando alcuni campioni delle rocce piÃ¹ antiche, Ã¨ risultata compresa tra 4,29 e 4,56 miliardi di anni.
+Il suo asse di rotazione Ã¨ inclinato rispetto alla perpendicolare al piano dell'eclittica: questa inclinazione, combinata con
+la rivoluzione della Terra intorno al Sole, causa l'alternarsi delle stagioni.
+Le condizioni atmosferiche primordiali sono state alterate in maniera preponderante dalla presenza di forme di vita, le quali
+hanno creato un diverso equilibrio ecologico plasmando la superficie del pianeta. Circa il 71% della superficie Ã¨ coperta da
+oceani di acqua salata, mentre il restante 29% Ã¨ rappresentato dai continenti e dalle isole.
+La superficie esterna Ã¨ suddivisa in diversi segmenti rigidi, o placche tettoniche, che si spostano lungo la superficie in
+periodi di diversi milioni di anni. La parte interna, attiva dal punto di vista geologico, Ã¨ composta da uno spesso strato
+relativamente solido o plastico, denominato mantello, e da un nucleo, diviso a sua volta in nucleo esterno, dove si genera il
+campo magnetico, e nucleo interno solido, costituito principalmente da ferro e nichel. Tutto ciÃ² che riguarda la composizione
+della parte interna della Terra resta comunque una teoria indiretta ovvero mancante di verifica e osservazione diretta.
+Importanti sono le influenze esercitate sulla Terra dallo spazio esterno. Infatti la Luna Ã¨ all'origine del fenomeno delle maree,
+stabilizza lo spostamento dell'asse terrestre e ha lentamente modificato la lunghezza del
+periodo di rotazione del pianeta(rallentandolo); un bombardamento di comete durante le fasi primordiali ha giocato un ruolo
+fondamentale nella formazione degli oceani e, in un periodo successivo, alcuni impatti di asteroidi hanno provocato significativi
+cambiamenti delle caratteristiche della superficie e ne hanno alterato la vita presente.
+</template>
+</category>
+<category>
+<pattern>MARTE</pattern>
+<template>
+Marte Ã¨ il quarto pianeta del sistema solare in ordine di distanza dal Sole e l'ultimo dei pianeti di tipo terrestre dopo Mercurio,
+Venere e la Terra. Viene chiamato il Pianeta rosso a causa del suo colore caratteristico dovuto alle grandi quantitÃ  di ossido
+di ferro che lo ricoprono.
+Pur presentando un'atmosfera molto rarefatta e temperature medie superficiali piuttosto basse (tra -140 Â°C e 20 Â°C),
+il pianeta Ã¨ il piÃ¹ simile alla Terra tra quelli del sistema solare. Nonostante le sue dimensioni siano intermedie fra quelle
+del nostro pianeta e della Luna (il raggio equatoriale Ã¨ di 3397 km, circa la metÃ  di quello della Terra e la massa poco piÃ¹ di
+un decimo), presenta inclinazione dell'asse di rotazione e durata del giorno simili a quelle terrestri. Inoltre, la sua
+superficie presenta formazioni vulcaniche, valli, calotte polari e deserti sabbiosi, oltre a formazioni geologiche che
+suggeriscono la presenza, in un lontano passato, di un'idrosfera. Tuttavia, la superficie del pianeta appare fortemente
+craterizzata a causa della quasi totale assenza di agenti erosivi (soprattutto attivitÃ  geologica, atmosferica e idrosferica)
+in grado di modellare le strutture tettoniche. Infine, la bassissima densitÃ  dell'atmosfera non Ã¨ in grado di consumare buona
+parte delle meteoriti, che quindi raggiungono il suolo con maggior frequenza che non sulla Terra.
+Fra le formazioni geologiche piÃ¹ notevoli di Marte si segnalano il Monte Olimpo, il vulcano piÃ¹ grande del sistema solare
+(alto 27 km), e le Valles Marineris, un lungo canyon piÃ¹ esteso di quelli terrestri. Nel giugno 2008 la rivista Nature ha
+esposto le prove di un enorme cratere sull'emisfero boreale circa quattro volte piÃ¹ grande del cratere chiamato il
+Bacino Polo Sud-Aitken.
+All'osservazione, Marte presenta delle variazioni di colore, imputate inizialmente alla presenza di vegetazione stagionale,
+che al variare dei periodi dell'anno cambiava di colore. Tuttavia, le osservazioni spettroscopiche dell'atmosfera avevano da
+tempo fatto abbandonare l'ipotesi che vi potessero essere mari, canali e fiumi oppure un'atmosfera sufficientemente densa.
+Il colpo di grazia a questa ipotesi fu dato dalla missione Mariner 4 che nel 1965 mostrÃ² un pianeta desertico e arido,
+caratterizzato da tempeste di sabbia periodiche e particolarmente violente. La speranza che Marte possa accogliere la vita Ã¨
+tuttavia stata ripresa in considerazione da quando il modulo Phoenix Mars Lander ha scoperto acqua sotto forma di ghiaccio,
+il 31 luglio 2008.
+Sono tre i satelliti artificiali funzionanti che orbitano attorno a Marte: il Mars Odyssey,
+il Mars Express e il Mars Reconnaissance Orbiter. Il modulo Phoenix ha concluso la sua missione di studio della geologia
+marziana e ha fornito le prove che in passato esisteva acqua allo stato liquido su ampie zone della superficie.
+Inoltre ha suggerito che sulla superficie possano essersi verificati nell'ultimo decennio dei flussi d'acqua simili a geyser.
+Osservazioni da parte del Mars Global Surveyor manifestano una contrazione della calotta di ghiaccio al polo sud.
+Il 28 settembre 2015 Ã¨ stata confermata l'esistenza di residui di sali idrati, indice dell'effimera presenza di ruscelli di
+acqua salata, quindi dell'esistenza di acqua in forma liquida sulla superficie del pianeta.
+</template>
+</category>
+<category>
+<pattern>GIOVE</pattern>
+<template>
+Giove (dal latino Iovem, accusativo di Iuppiter) Ã¨ il quinto pianeta del sistema solare in ordine di distanza dal Sole
+ed il piÃ¹ grande di tutto il sistema planetario: la sua massa corrisponde a 2,468 volte la somma di quelle di tutti gli altri
+pianeti messi insieme.[8] Ãˆ classificato, al pari di Saturno, Urano e Nettuno, come gigante gassoso.
+Giove ha una composizione simile a quella del Sole: infatti Ã¨ costituito principalmente da idrogeno ed elio con piccole
+quantitÃ  di altri composti, quali ammoniaca, metano ed acqua. Si ritiene che il pianeta possegga una struttura
+pluristratificata, con un nucleo solido, presumibilmente di natura rocciosa e costituito da carbonio e silicati di ferro,
+sopra il quale gravano un mantello di idrogeno metallico ed una vasta copertura atmosferica che esercitano su di esso delle
+altissime pressioni.
+L'atmosfera esterna Ã¨ caratterizzata da numerose bande e zone di tonalitÃ  variabili dal color crema al marrone costellate da
+formazioni cicloniche ed anticicloniche, tra le quali spicca la Grande Macchia Rossa. La rapida rotazione del pianeta gli
+conferisce l'aspetto di uno sferoide oblato e genera un intenso campo magnetico che dÃ  origine ad un'estesa magnetosfera;
+inoltre, a causa del meccanismo di Kelvin-Helmholtz, Giove (come tutti gli altri giganti gassosi) emette una quantitÃ  di energia
+superiore a quella che riceve dal Sole.
+A causa delle sue dimensioni e della composizione simile a quella solare, Giove Ã¨ stato considerato per lungo tempo
+una "stella fallita":[16] in realtÃ  solamente se avesse avuto l'opportunitÃ  di accrescere la propria massa sino a 75-80 volte
+quella attuale[N 3][17] il suo nucleo avrebbe ospitato le condizioni di temperatura e pressione favorevoli all'innesco delle
+reazioni di fusione dell'idrogeno in elio, il che avrebbe reso il sistema solare un sistema stellare binario.
+L'intenso campo gravitazionale di Giove influenza il sistema solare nella sua struttura perturbando le orbite degli altri
+pianeti e lo "ripulisce" da detriti che altrimenti rischierebbero di colpire i pianeti piÃ¹ interni.
+Intorno a Giove orbitano numerosi satelliti e un sistema di anelli scarsamente visibili; l'azione combinata dei campi
+gravitazionali di Giove e del Sole, inoltre, stabilizza le orbite di due gruppi di asteroidi troiani.
+</template>
+</category>
+<category>
+<pattern>SATURNO</pattern>
+<template>
+Saturno Ã¨ il sesto pianeta del Sistema solare in ordine di distanza dal Sole ed il secondo pianeta piÃ¹ massiccio dopo Giove.
+Saturno, con Giove, Urano e Nettuno, Ã¨ classificato come gigante gassoso, con un raggio medio 9,5 volte quello della Terra e una
+massa 95 volte superiore a quella terrestre. Il nome deriva dall'omonimo dio della mitologia romana, omologo del titano greco
+Crono.[3] Il suo simbolo astronomico Ã¨ una rappresentazione stilizzata della falce del dio dell'agricoltura e dello scorrere del
+tempo (in greco, Kronos) (Saturn symbol.svg).
+Saturno Ã¨ composto per il 95% da idrogeno e per il 3% da elio a cui seguono gli altri elementi. Il nucleo, consistente in silicati
+e ghiacci, Ã¨ circondato da uno spesso strato di idrogeno metallico e quindi di uno strato esterno gassoso.
+Le velocitÃ  dei venti nell'atmosfera di Saturno puÃ² raggiungere i 1 800 km/h, significativamente piÃ¹ veloci di quelli su Giove,
+anche se leggermente meno veloci di quelli che spirano nell'atmosfera di Nettuno.
+Saturno ha un esteso e vistoso sistema di anelli che consiste principalmente in particelle di ghiacci e polveri di silicati.
+Della sessantina di lune conosciute che orbitano intorno al pianeta, Titano Ã¨ la maggiore e l'unica luna del sistema solare
+ad avere un'atmosfera significativa.
+</template>
+</category>
+<category>
+<pattern>URANO</pattern>
+<template>
+Urano Ã¨ il settimo pianeta del sistema solare in ordine di distanza dal Sole, il terzo per diametro e il quarto per massa.
+Il suo simbolo astronomico Unicode Ã¨ Uranus (occasionalmente ?, stilizzazione della lettera H iniziale di
+William Herschel). Porta il nome del dio greco del cielo Urano (???a??? in greco antico), padre di Crono (Saturno),
+a sua volta padre di Zeus (Giove).
+Sebbene sia visibile anche ad occhio nudo, come gli altri cinque pianeti noti fin dall'antichitÃ , non fu mai riconosciuto
+come tale a causa della sua bassa luminositÃ  e della sua orbita particolarmente lenta; venne scoperto infatti soltanto il
+13 marzo 1781 da William Herschel, diventando cosÃ¬ il primo pianeta ad essere scoperto tramite un telescopio. Una curiositÃ 
+riguardo alla sua scoperta Ã¨ che essa giunse del tutto inaspettata: i pianeti visibili ad occhio nudo (fino a Saturno) erano
+conosciuti da millenni e nessuno sospettava l'esistenza di altri pianeti, fino alla scoperta di Herschel che notÃ² come una
+particolare stellina sembrava spostarsi. Da quel momento in poi nessuno fu piÃ¹ sicuro del reale numero di pianeti del nostro
+sistema solare.
+La composizione chimica di Urano Ã¨ simile a quella di Nettuno ed entrambi hanno una composizione differente rispetto a quella
+dei giganti gassosi piÃ¹ grandi (Giove e Saturno). Per questa ragione gli astronomi talvolta preferiscono riferirsi a questi due
+pianeti trattandoli come una classe separata, i "giganti ghiacciati". L'atmosfera del pianeta, sebbene sia simile a quella di
+Giove e Saturno per la presenza abbondante di idrogeno ed elio, contiene una proporzione elevata di "ghiacci", come l'acqua,
+l'ammoniaca e il metano, assieme a tracce di idrocarburi. Quella di Urano Ã¨ anche l'atmosfera piÃ¹ fredda del sistema solare,
+con una temperatura minima che puÃ² scendere fino a 49 K (-224 Â°C). Possiede una complessa struttura di nubi ben stratificata,
+in cui si pensa che l'acqua si trovi negli strati inferiori e il metano in quelli piÃ¹ in quota. L'interno del pianeta al
+contrario sarebbe composto principalmente di ghiacci e rocce.
+Una delle caratteristiche piÃ¹ insolite del pianeta Ã¨ l'orientamento del suo asse di rotazione. Tutti gli altri pianeti hanno il
+proprio asse quasi perpendicolare al piano dell'orbita, mentre quello di Urano Ã¨ quasi parallelo. Ruota quindi mantenendo uno dei
+suoi poli verso il Sole per metÃ  del periodo di rivoluzione con conseguente estremizzazione delle fasi stagionali. Inoltre,
+poichÃ© l'asse Ã¨ inclinato di poco piÃ¹ di 90Â°, la rotazione Ã¨ tecnicamente retrograda: Urano ruota nel verso opposto rispetto a
+quello di tutti gli altri pianeti del sistema solare (eccetto Venere) anche se, vista l'eccezionalitÃ  dell'inclinazione la
+rotazione retrograda, Ã¨ solo una nota minore. Il periodo della sua rivoluzione attorno al Sole Ã¨ di circa 84 anni terrestri e
+quindi ogni 42 anni cambia il polo esposto alla nostra stella. L'orbita di Urano giace in pratica sul piano
+dell'eclittica (inclinazione di 0,7Â°).
+Come gli altri pianeti giganti, Urano possiede un sistema di anelli planetari, una magnetosfera e numerosi satelliti;
+visti dalla Terra, a causa dell'inclinazione del pianeta, i suoi anelli possono talvolta apparire come un sistema concentrico
+che circonda il pianeta, oppure come nel 2007 e 2008 apparire di taglio. Nel 1986 la sonda Voyager 2 mostrÃ² Urano come un pianeta
+senza alcun segno distintivo sulla sua superficie, senza le bande e tempeste tipiche degli altri giganti gassosi.
+Tuttavia, osservazioni successive condotte da Terra, hanno mostrato delle evidenze di cambiamenti legati alle stagioni e un
+aumento dell'attivitÃ  climatica, quando il pianeta si Ã¨ avvicinato all'equinozio. La velocitÃ  dei venti su
+Urano puÃ² raggiungere i 250 m/s, pari a 900 km/h.
+</template>
+</category>
+<category>
+<pattern>NETTUNO</pattern>
+<template>
+Nettuno Ã¨ l'ottavo e piÃ¹ lontano pianeta del Sistema solare partendo dal Sole.
+Si tratta del quarto pianeta piÃ¹ grande, considerando il suo diametro, e il terzo se si considera la sua massa.
+Nettuno ha 17 volte la massa della Terra ed Ã¨ leggermente piÃ¹ massiccio del suo quasi-gemello Urano,
+la cui massa Ã¨ uguale a 15 masse terrestri, ma Ã¨ meno denso rispetto a Nettuno. Il nome del pianeta Ã¨ dedicato al dio
+romano del mare; il suo simbolo Ã¨ Simbolo astronomico di Nettuno, una versione stilizzata del tridente di Nettuno.
+Scoperto la sera del 23 settembre 1846 da Johann Gottfried Galle con il telescopio dell'Osservatorio astronomico di Berlino,
+e Heinrich Louis d'Arrest, uno studente di astronomia che lo assisteva, Nettuno fu il primo pianeta ad essere stato trovato
+tramite calcoli matematici piÃ¹ che attraverso regolari osservazioni: cambiamenti insoliti nell'orbita di Urano indussero gli
+astronomi a credere che vi fosse, all'esterno, un pianeta sconosciuto che ne perturbava l'orbita. Il pianeta fu scoperto entro
+ppena un grado dal punto previsto. La luna Tritone fu individuata poco dopo, ma nessuno degli altri tredici satelliti naturali
+di Nettuno fu scoperto prima del XX secolo. Il pianeta Ã¨ stato visitato da una sola sonda spaziale, la Voyager 2 che transitÃ²
+vicino ad esso il 25 agosto 1989.
+Nettuno ha una composizione simile a quella di Urano ed entrambi hanno composizioni differenti da quelle dei piÃ¹ grandi pianeti
+gassosi Giove e Saturno. Per questo sono talvolta classificati in una categoria separata, i cosiddetti "giganti ghiacciati".
+L'atmosfera di Nettuno, sebbene simile a quelle sia di Giove che di Saturno essendo composta principalmente da idrogeno ed elio,
+possiede anche maggiori proporzioni di "ghiacci", come acqua, ammoniaca e metano, assieme a tracce di idrocarburi e forse azoto.
+In contrasto, l'interno del pianeta Ã¨ composto essenzialmente da ghiacci e rocce come il suo simile Urano.
+Le tracce di metano presenti negli strati piÃ¹ esterni dell'atmosfera contribuiscono a conferire al pianeta Nettuno il suo
+caratteristico colore azzurro intenso.
+Nettuno possiede i venti piÃ¹ forti di ogni altro pianeta nel Sistema Solare.
+Sono state misurate raffiche a velocitÃ  superiori ai 2 100 km/h.
+All'epoca del sorvolo da parte della Voyager 2, nel 1989, l'emisfero sud del pianeta possedeva una Grande Macchia Scura
+comparabile con la Grande Macchia Rossa di Giove; la temperatura delle nubi piÃ¹ alte di Nettuno era di circa -218 Â°C,
+una delle piÃ¹ fredde del Sistema solare, a causa della grande distanza dal Sole.
+La temperatura al centro del pianeta Ã¨ di circa 7 Ã— 103 Â°C,
+comparabile con la temperatura superficiale del Sole e simile a quella del nucleo di molti altri pianeti conosciuti.
+Il pianeta possiede inoltre un debole sistema di anelli, scoperto negli anni sessanta ma confermato solo dalla Voyager 2.
+</template>
+</category>
+</aiml>
